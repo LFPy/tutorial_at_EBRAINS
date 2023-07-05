@@ -15,4 +15,4 @@ Recipe:
   5) In the Jupyter Notebook, press the button on the leftmost bar that is named "Git" (hover over with the mouse to see the name).
   6) Press the button "Clone a Repository", and give the URL https://github.com/LFPy/tutorial_at_EBRAINS/
   7) Under the folder "tutorial_at_EBRAINS", you should now find examples and exercises. Find and click on a Jupyter Notebook
-  8) When it opens, make sure the Jupyter Notebook kernel (top right on the Jupyter notebook, by default it might be "Python 3 (ipykernel)") is set to "EBRAINS-20.02"
+  8) When it opens, make sure the Jupyter Notebook kernel (top right on the Jupyter notebook, by default it might be "Python 3 (ipykernel)") is set to "EBRAINS-23.02"
