@@ -6,7 +6,7 @@ Note, however, that the correct 'kernel' for the Jupyter Notebooks must be used 
 This requires a free EBRAINS account, which can be made here: 
 https://www.ebrains.eu/page/sign-up
 
-=======
+
 Recipe:
   1) Go to https://wiki.ebrains.eu/bin/view/Main/, log in and click "Collabs" on the top right
   2) Click the button "Create a collab"
