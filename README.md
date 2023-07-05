@@ -16,3 +16,5 @@ Recipe:
   6) Press the button "Clone a Repository", and give the URL https://github.com/LFPy/tutorial_at_EBRAINS/
   7) Under the folder "tutorial_at_EBRAINS", you should now find examples and exercises. Find and click on a Jupyter Notebook
   8) When it opens, make sure the Jupyter Notebook kernel (top right on the Jupyter notebook, by default it might be "Python 3 (ipykernel)") is set to "EBRAINS-23.02"
+
+You should now be able to play with the different exercises and examples.
