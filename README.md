@@ -1,7 +1,13 @@
-# LFPy tutorial to run at the EBRAINS collaboratory
+# LFPy tutorial to run at the EBRAINS collaborator
 
 LFPy is preinstalled at the EBRAINS collaboratory, and running these exercises should therefore be easy.
-Note, however, that the correct 'kernel' for the Jupyter Notebooks must be used for LFPy to be directly available.
+
+[![](https://nest-simulator.org/TryItOnEBRAINS.png)](https://lab.ebrains.eu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FLFPy%2Ftutorial_at_EBRAINS&urlpath=tree%2Ftutorial_at_EBRAINS%2F&branch=main)
+
+
+
+An alternative to the button above, is to do this all manually:
+Note that the correct 'kernel' for the Jupyter Notebooks must be used for LFPy to be directly available.
 
 This requires a free EBRAINS account, which can be made here: 
 https://www.ebrains.eu/page/sign-up
